@@ -1,0 +1,11 @@
+memory/history.json
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.cache/
+
+# Vídeos de demonstração (use link externo ou Git LFS se precisar versionar)
+*.mp4
