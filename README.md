@@ -18,6 +18,10 @@ A proposta aqui é dar uma **leitura estruturada** antes da conversa do time —
 
 O terminal imprime linhas como `Using MCP tool: search_knowledge_base` para facilitar a demonstração em vídeo.
 
+## Demonstração em vídeo
+
+A gravação da execução está na raiz do repositório: [`apresentacao_agente_verity.mp4`](./apresentacao_agente_verity.mp4).
+
 ## Ambiente recomendado
 
 - **Python 3.11+**
